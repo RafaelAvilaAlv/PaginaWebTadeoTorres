@@ -1,0 +1,6 @@
+2023-06-16T02:33:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\wordpress\wp-includes\class-wpdb.php en la línea 2431
+
+2023-06-16T02:42:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\wordpress\wp-includes\class-wp-image-editor-gd.php en la línea 208
+
+2023-06-16T02:47:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\wordpress\wp-includes\class-wp-image-editor-gd.php en la línea 208
+
